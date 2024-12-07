@@ -1,2 +1,4 @@
-# number-guessing-game
-Guess a number 1-100 using JavaScript
+# Number Guessing Game 
+I built a simple yet engaging number guessing game using JavaScript, HTML, and CSS. In this game, you click a button to start and then try to guess a randomly generated number between 1 and 100 (inclusive). If you guess correctly, the program congratulates you and displays the number of attempts it took. If your guess is too high or too low, it provides feedback to guide you, allowing you to keep guessing until you get it right. Each round generates a new random number, so you can play repeatedly for endless fun. While I used JavaScript to handle the game logic and HTML/CSS to create a visually appealing button and layout, I am still learning JavaScript and haven't yet figured out how to customize the pop-up dialog box using CSS. Once I learn that, I hope to enhance the game's design further!
+
+Website Link: https://number-guessing-game-dec2024.web.app/
