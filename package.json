@@ -1,0 +1,14 @@
+{
+  "name": "numberguess",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "author": "Sabryna Velez",
+  "license": "ISC",
+  "main": "number-guessing.js",
+  "keywords": [],
+  "description": ""
+}
